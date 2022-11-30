@@ -1,5 +1,5 @@
 # Result Interview Nusatech Development
 
-### Halaman Login
+### Halaman Signup
 
 ![Skills](src/assets/images/result.png)
